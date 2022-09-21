@@ -12,5 +12,6 @@ public class App
         System.out.println("1");
         System.out.println("3");
         System.out.println("123123");
+        System.out.println("new");
     }
 }

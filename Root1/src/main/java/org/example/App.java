@@ -17,6 +17,6 @@ public class App
         System.out.println("123123");
         System.out.println("123123");
         System.out.println("123123");
-        System.out.println("origin");
+        System.out.println("local");
     }
 }

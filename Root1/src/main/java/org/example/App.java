@@ -14,5 +14,6 @@ public class App
         System.out.println("123123");
         System.out.println("new");
         System.out.println("cherry-pick");
+        System.out.println("123123");
     }
 }
